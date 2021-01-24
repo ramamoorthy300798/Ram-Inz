@@ -1,0 +1,239 @@
+#banner{
+    background-image: url(../Ram-Invoza/images/voz.png);
+    background-attachment: scroll;
+    background-size: cover;
+    height: 800px;
+}
+
+
+.primary-btn{
+    background-color: blue;
+    display: inline-block;
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+    padding: 15px 26px;
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 14px;
+    margin: 14px 8px 0px 0px;
+}
+.secondary-btn{
+    background-color: rgb(0, 195, 255);
+    display: inline-block;
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+    padding: 15px 26px;
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 14px;  
+}
+.button{
+
+}
+span{
+    color: blue;
+}
+#banner .comedy-wrapper{
+    display: flex;
+}
+#banner .comedy-wrapper .hero-wrapper{
+    flex-basis: 40%;
+    margin: 245px 0px 0px 100px;
+}
+#banner .comedy-wrapper .hero-wrapper h4 {
+    font-family: 'Exo 2',sans-serif;
+    color: #c2bfbf;
+    font-weight: 500;
+    line-height: 0.2;
+}
+#banner .comedy-wrapper .hero-wrapper h2{
+    font-family: 'Roboto';
+    font-size: 39px;
+    color: #494949;
+}
+#banner .comedy-wrapper .hero-wrapper p{
+    font-family:  'Exo 2', sans-serif;
+    font-size: 15px;
+    color: #acb5b8;
+    line-height: 1.8;
+}
+#banner .comedy-wrapper .hero-form-wrapper{
+    flex-basis: 25%;
+    border: 1px solid rgb(248, 248, 239);
+    border-radius: 4px;
+    margin: 200px 0px 0px 200px;
+    line-height: 0.4;
+    background-color: rgb(255,255,255);
+}
+#banner .comedy-wrapper .hero-form-wrapper .address{
+    padding: 0px 20px 22px 20px;
+}
+#banner .comedy-wrapper .hero-form-wrapper .address form{
+    margin: 70px 0px 10px 0px;
+}
+#banner .comedy-wrapper .hero-form-wrapper .heroine-wrap1 input{
+    padding: 10px 70px;
+    border: 1px solid #d0caca;
+    border-radius: 5px;
+    margin: 0 0 12px;
+}
+#banner .comedy-wrapper .hero-form-wrapper .heroine-wrap2 input{
+    padding: 10px 70px;
+    border: 1px solid #d0caca;
+    border-radius: 5px;
+    margin: 0 0 12px;
+}
+#banner .comedy-wrapper .hero-form-wrapper .heroine-wrap3 input{
+    padding: 10px 70px;
+    border: 1px solid #d0caca;
+    border-radius: 5px;
+    margin: 0 0 12px;
+}
+#banner .comedy-wrapper .hero-form-wrapper .address a{
+    padding: 14px 150px 13px 93px;
+    display: inline-block;
+    border: 1px solid;
+    background-color: blue;
+    color: #fff;
+    margin: 0px;
+    border-radius: 8px;
+}
+#banner .comedy-wrapper .hero-form-wrapper .heroine-wrap4{
+    font-size: 15px;
+    margin: 0px -5px -23px 0px;
+}
+#banner .comedy-wrapper .hero-form-wrapper .icon-wrap i{
+    font-size: 15px;
+    padding: 0px 100px 0px 175px;
+    color: #fff;
+}
+#banner .comedy-wrapper .hero-form-wrapper .address p{
+    font-family:  'Exo 2', sans-serif;
+    font-size: 15px;
+    color: #acb5b8;
+}
+#banner .comedy-wrapper .hero-form-wrapper h4{
+    font-family: 'Exo 2', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: #c2bfbf;
+    font-weight: 500;
+    padding: 44px;
+    margin: -8px 0px 20px 0px;
+}
+#banner .comedy-wrapper .hero-form-wrapper h2{
+    font-family: 'Exo 2',sans-serif;
+    font-size: 19px;
+    text-align: center;
+    margin: -40px;
+    padding: 5px;
+}
+#service{
+    background-color: #fafbff;
+}
+#service .hello-tittle{
+    text-align: center;
+    font-family:  'Roboto',sans-serif;
+    padding: 65px 0px 0px 40px;
+}   
+#service .hello-tittle h4{
+    font-size: 14px;
+    font-family: sans-serif;
+    line-height: 0.1;
+}
+#service .hello-tittle h3{
+    font-size: 24px;
+    color: #4d4d4d;
+    line-height: 0.8;
+}
+#service .hello-tittle p{
+    font-size: 16px;
+    color: #bebebe;
+    line-height: 1.8;
+}
+#service .hello-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 110px;
+    margin-right: 70px;
+}
+#service .hello-section .hello-item{
+    flex-basis: 25%;
+    border: 1px solid #fafbff;
+    padding: 50px 25px;
+    text-align: center;
+}
+#service .hello-section .hello-item h4{
+    font-family: 'Roboto',sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #5b5b5b;
+}
+#service .hello-section .hello-item p{
+    font-family:'Exo 2',sans-serif ;
+    font-size: 16px;
+    font-weight: 500;
+    color: #bebebe;
+    line-height: 1.8;
+    margin: -15px;
+}
+#service .hello-section .hello-item i{
+    padding: 15px 15px;
+    border: 1px solid #e6eaff;
+    color: blue;
+    font-size: 24px;
+    border-radius: 50%;
+    background-color: #e6eaff;
+    line-height: 2.3;
+}
+#service .hello-section .service-btn{
+    padding: 15px;
+}
+#best {
+    background-color: #4153d4;
+}
+#best .solution-tittle {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding: 50px;
+}
+#best .solution-tittle h2{
+    font-size: 25px;
+    color: #fff;
+    line-height: 0;
+}
+#best .solution-tittle p{
+    font-size: 15px;
+    color: rgb(175 202 255);
+    font-weight: 600;
+    line-height: 2;
+}
+#best .bus-clients{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 0px 0px 75px 0px
+}
+#best .bus-clients h1{
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 0.5;
+}
+#best .bus-clients p{
+    font-family: 'Roboto',sans-serif;
+    font-size: 17px;
+    color: #c4c4c4;
+}
+#best .bus-clients i{
+    color: #5affc7;
+    font-size: 35px;
+    line-height: 2;
+}
